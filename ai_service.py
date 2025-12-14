@@ -9,8 +9,7 @@ Original file is located at
 
 # 필요 Library install
 """
-이 셀을 실행 한 후 다음의 에러 팝업이 뜰 수 있습니다.
-정상적인 것이니 Restart session 버튼을 누르고 다음 셀로 진행하시면 됩니다.
+이 셀을 실행 한 후 다음의 에러 팝업이 뜰 수 있음.
 
 WARNING: The following packages were previously imported in this runtime:
   [_distutils_hack]
